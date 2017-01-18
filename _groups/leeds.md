@@ -16,3 +16,7 @@ short_desc: Real-time engineering simulations
 ---
 
 University Academic Fellowship for _real-time engineering simulations_.
+
+{% cite DuttEtAl2000 --file sdc %}
+
+{% bibliography --cited_in_order --file sdc %}
