@@ -12,6 +12,7 @@ members:
   - name: Dr. Bankim Mandal
     email: bmandal@mtu.edu
 short_desc: 
+subtitle: MTU
 ---
 
 The group is actively working on application of [RIDC](/methods/ridc.html) to practical problems,
