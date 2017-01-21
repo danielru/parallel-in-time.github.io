@@ -17,6 +17,7 @@ members_retired:
   - name: Dr. Andreas Kreienbuehl
     email: andreas.kreienbuehl@usi.ch
 short_desc: 
+subtitle: usi
 ---
 
 Group _High Performance Methods for Numerical Simulation in Science, Medicine and Engineering_.

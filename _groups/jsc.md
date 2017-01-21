@@ -21,6 +21,7 @@ members_retired:
   - name: Dr. Mathias Winkel
   - name: M.Sc. Marina Weingartz
 short_desc: A small and young group concentrating on the PFASST algorithm.
+subtitle: JSC
 ---
 
 The research group at the _Jülich Supercomputing Centre_ is lead by Dr. Robert Speck mentoring
