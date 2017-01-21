@@ -18,6 +18,7 @@ members:
   - name: MSc Adam Peddle
     email: adam.g.peddle@gmail.com
 short_desc: Group focusing on Parareal for climate, weather and oceanic simulations.
+subtitle: UoE
 ---
 
 The research group on parallelization-in-time at the University of
