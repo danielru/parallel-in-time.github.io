@@ -1,5 +1,6 @@
 ---
 layout: page_group
+page_type: group_page
 title: "University of Exeter"
 date: 2015-06-10 16:00:00 +0100
 navbar: Groups

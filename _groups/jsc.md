@@ -1,5 +1,6 @@
 ---
 layout: page_group
+page_type: group_page
 title: "Jülich Supercomputing Centre"
 date: 2014-06-12 16:00
 updated: 2015-06-03 10:40:00 +0200
